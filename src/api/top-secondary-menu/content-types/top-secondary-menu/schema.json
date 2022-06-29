@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "top_secondary_menus",
+  "info": {
+    "singularName": "top-secondary-menu",
+    "pluralName": "top-secondary-menus",
+    "displayName": "Top Secondary Menu",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "menu.link"
+    }
+  }
+}
