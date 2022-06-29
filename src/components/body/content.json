@@ -2,8 +2,13 @@
   "collectionName": "components_body_contents",
   "info": {
     "displayName": "content",
-    "icon": "align-justify"
+    "icon": "align-justify",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "contentBlock": {
+      "type": "richtext"
+    }
+  }
 }
